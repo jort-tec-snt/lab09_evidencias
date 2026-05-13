@@ -1,21 +1,21 @@
 ####EVIDENCIAS DE README
 ##### CREAR PROYECTO
 
-![](docs/imagen1.png)
+![](docs/Imagen1.png)
 #### LEVANTAR PROYECTO
-![](docs/imagen2.png)
+![](docs/Imagen2.png)
 #### EDITAR PROYECTO
 
-![](docs/imagen3.png)
+![](docs/Imagen3.png)
 
 ##### ELIMINAR TODO Y DEJA EL APP
 
-![](docs/imagen4.png)
+![](docs/Imagen4.png)
 
-![](docs/imagen5.png)
+![](docs/Imagen5.png)
 
 
 ### EDICION DE COMPONENTES
-![](docs/imagen6.png)
+![](docs/Imagen6.png)
 
-![](docs/imagen7.png)
+![](docs/Imagen7.png)
